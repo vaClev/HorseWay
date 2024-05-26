@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Oleg Vasilev\\Desktop\\C#\\\u041C\u0430\u0440\u0448\u0440\u0443\u0442 \u041A\u043E\u043D\u044F\\HorseWay\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F9758991-5EAB-42C5-AEF5-46E7D9DC7794}|HorseWay\\HorseWay.csproj|c:\\users\\oleg vasilev\\desktop\\c#\\\u043C\u0430\u0440\u0448\u0440\u0443\u0442 \u043A\u043E\u043D\u044F\\horseway\\horseway\\knight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9758991-5EAB-42C5-AEF5-46E7D9DC7794}|HorseWay\\HorseWay.csproj|solutionrelative:horseway\\knight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9758991-5EAB-42C5-AEF5-46E7D9DC7794}|HorseWay\\HorseWay.csproj|c:\\users\\oleg vasilev\\desktop\\c#\\\u043C\u0430\u0440\u0448\u0440\u0443\u0442 \u043A\u043E\u043D\u044F\\horseway\\horseway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9758991-5EAB-42C5-AEF5-46E7D9DC7794}|HorseWay\\HorseWay.csproj|solutionrelative:horseway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9758991-5EAB-42C5-AEF5-46E7D9DC7794}|HorseWay\\HorseWay.csproj|c:\\users\\oleg vasilev\\desktop\\c#\\\u043C\u0430\u0440\u0448\u0440\u0443\u0442 \u043A\u043E\u043D\u044F\\horseway\\horseway\\tree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9758991-5EAB-42C5-AEF5-46E7D9DC7794}|HorseWay\\HorseWay.csproj|solutionrelative:horseway\\tree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 344,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Tree.cs",
+              "DocumentMoniker": "C:\\Users\\Oleg Vasilev\\Desktop\\C#\\\u041C\u0430\u0440\u0448\u0440\u0443\u0442 \u041A\u043E\u043D\u044F\\HorseWay\\HorseWay\\Tree.cs",
+              "RelativeDocumentMoniker": "HorseWay\\Tree.cs",
+              "ToolTip": "C:\\Users\\Oleg Vasilev\\Desktop\\C#\\\u041C\u0430\u0440\u0448\u0440\u0443\u0442 \u041A\u043E\u043D\u044F\\HorseWay\\HorseWay\\Tree.cs",
+              "RelativeToolTip": "HorseWay\\Tree.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T16:32:06.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Knight.cs",
+              "DocumentMoniker": "C:\\Users\\Oleg Vasilev\\Desktop\\C#\\\u041C\u0430\u0440\u0448\u0440\u0443\u0442 \u041A\u043E\u043D\u044F\\HorseWay\\HorseWay\\Knight.cs",
+              "RelativeDocumentMoniker": "HorseWay\\Knight.cs",
+              "ToolTip": "C:\\Users\\Oleg Vasilev\\Desktop\\C#\\\u041C\u0430\u0440\u0448\u0440\u0443\u0442 \u041A\u043E\u043D\u044F\\HorseWay\\HorseWay\\Knight.cs",
+              "RelativeToolTip": "HorseWay\\Knight.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAIwC0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T21:12:47.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Oleg Vasilev\\Desktop\\C#\\\u041C\u0430\u0440\u0448\u0440\u0443\u0442 \u041A\u043E\u043D\u044F\\HorseWay\\HorseWay\\Program.cs",
+              "RelativeDocumentMoniker": "HorseWay\\Program.cs",
+              "ToolTip": "C:\\Users\\Oleg Vasilev\\Desktop\\C#\\\u041C\u0430\u0440\u0448\u0440\u0443\u0442 \u041A\u043E\u043D\u044F\\HorseWay\\HorseWay\\Program.cs",
+              "RelativeToolTip": "HorseWay\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAA1wBwAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T21:03:26.786Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

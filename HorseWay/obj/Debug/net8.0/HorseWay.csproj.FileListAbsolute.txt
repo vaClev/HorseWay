@@ -1,0 +1,14 @@
+C:\Users\Oleg Vasilev\Desktop\C#\Маршрут Коня\HorseWay\HorseWay\bin\Debug\net8.0\HorseWay.exe
+C:\Users\Oleg Vasilev\Desktop\C#\Маршрут Коня\HorseWay\HorseWay\bin\Debug\net8.0\HorseWay.deps.json
+C:\Users\Oleg Vasilev\Desktop\C#\Маршрут Коня\HorseWay\HorseWay\bin\Debug\net8.0\HorseWay.runtimeconfig.json
+C:\Users\Oleg Vasilev\Desktop\C#\Маршрут Коня\HorseWay\HorseWay\bin\Debug\net8.0\HorseWay.dll
+C:\Users\Oleg Vasilev\Desktop\C#\Маршрут Коня\HorseWay\HorseWay\bin\Debug\net8.0\HorseWay.pdb
+C:\Users\Oleg Vasilev\Desktop\C#\Маршрут Коня\HorseWay\HorseWay\obj\Debug\net8.0\HorseWay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oleg Vasilev\Desktop\C#\Маршрут Коня\HorseWay\HorseWay\obj\Debug\net8.0\HorseWay.AssemblyInfoInputs.cache
+C:\Users\Oleg Vasilev\Desktop\C#\Маршрут Коня\HorseWay\HorseWay\obj\Debug\net8.0\HorseWay.AssemblyInfo.cs
+C:\Users\Oleg Vasilev\Desktop\C#\Маршрут Коня\HorseWay\HorseWay\obj\Debug\net8.0\HorseWay.csproj.CoreCompileInputs.cache
+C:\Users\Oleg Vasilev\Desktop\C#\Маршрут Коня\HorseWay\HorseWay\obj\Debug\net8.0\HorseWay.dll
+C:\Users\Oleg Vasilev\Desktop\C#\Маршрут Коня\HorseWay\HorseWay\obj\Debug\net8.0\refint\HorseWay.dll
+C:\Users\Oleg Vasilev\Desktop\C#\Маршрут Коня\HorseWay\HorseWay\obj\Debug\net8.0\HorseWay.pdb
+C:\Users\Oleg Vasilev\Desktop\C#\Маршрут Коня\HorseWay\HorseWay\obj\Debug\net8.0\HorseWay.genruntimeconfig.cache
+C:\Users\Oleg Vasilev\Desktop\C#\Маршрут Коня\HorseWay\HorseWay\obj\Debug\net8.0\ref\HorseWay.dll
